@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.todo",
-               "sha256_cert_fingerprints": ["43:98:FF:A4:B1:7F:7A:EB:67:6B:D1:77:A9:1F:94:A1:92:82:53:38:36:EB:AD:5A:B8:A8:55:D0:6C:F2:68:A4"] }
-}]
