@@ -1,12 +1,5 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "com.example.todo",
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.todo",
                "sha256_cert_fingerprints": ["8A:91:45:AE:28:E3:F6:4D:7C:0F:18:48:D7:12:A5:E6:5B:0D:F4:95:2A:F0:A3:80:D8:86:92:8E:30:41:E3:A2"] }
-  },
- {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "com.example.todo",
-                 "sha256_cert_fingerprints": ["43:98:FF:A4:B1:7F:7A:EB:67:6B:D1:77:A9:1F:94:A1:92:82:53:38:36:EB:AD:5A:B8:A8:55:D0:6C:F2:68:A4"] }
-  }
-]
+}]
